@@ -10510,6 +10510,17 @@ iframe{
   height: 400px;
 }
 
+
+.btn-incripcion{
+  background-color: #e6505d;
+  border-color: #dc3545;
+  color: white;
+}
+
+.btn-incripcion a{
+  color: white;
+}
+
 @media  (max-width: 700px){
   iframe{
     width: 90%;
