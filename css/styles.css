@@ -10517,7 +10517,7 @@ iframe{
   color: white;
 }
 
-.btn-incripcion a{
+.btn-incripcion a, a[class='encuesta'] {
   color: white;
 }
 
